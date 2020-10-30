@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/Rass16/Data_science/blob/main/banner.jpg)
 
-Portfólio de notebooks de Ciência de dados.
+Portfólio de notebooks de ciência de dados.
 
 ## Habilidades: 
 * Python
