@@ -1,4 +1,7 @@
 # Data_science
+
+![banner](https://github.com/Rass16/Data_science/blob/main/banner.jpg)
+
 Portfólio de notebooks de Ciência de dados.
 
 ## Habilidades: 
@@ -21,4 +24,4 @@ Portfólio de notebooks de Ciência de dados.
 * Graduação em Ciências Biológicas
 * Especialista em Gestão Ambiental
 * Mestre em Ecologia e Biomonitoramento
-* Doutorando em Ecologia
+* Doutorando em Ecologia (Defesa realizada)
