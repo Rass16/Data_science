@@ -13,11 +13,13 @@ Portfólio de notebooks de ciência de dados.
 ## Lista de notebooks em Jupyter:
 
 ### Visualização de dados:
-* **Análise exploratória da emissão de CO² no Brasil:
-* **Análise exploratória de suicídios no Brasil:
-* **Análise exploratória do perfil de cientistas de dados no Brasil:
+* **Análise exploratória da emissão de CO² no Brasil: https://bit.ly/3jMle1k
+* **Análise exploratória de suicídios no Brasil: https://bit.ly/2HRN53c
+* **Análise exploratória do perfil de cientistas de dados no Brasil: https://bit.ly/3jGMI8l
 
 ### Machine Learning:
+
+* Em construção!
 
 ## Sobre mim:
 
