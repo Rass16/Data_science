@@ -9,10 +9,13 @@ Portfólio de notebooks de ciência de dados.
 * R
 * Data Visualization
 * Machine Learning
+* Shiny
+* MongoDB(Básico)
+* MySQL(Básico)
 
 ## Lista de notebooks em Jupyter:
 
-### Visualização de dados:
+### Análise exploratória de dados:
 * **Análise exploratória da emissão de CO² no Brasil: https://bit.ly/3jMle1k
 * **Análise exploratória de suicídios no Brasil: https://bit.ly/2HRN53c
 * **Análise exploratória do perfil de cientistas de dados no Brasil: https://bit.ly/3jGMI8l
@@ -26,4 +29,4 @@ Portfólio de notebooks de ciência de dados.
 * Graduação em Ciências Biológicas
 * Especialista em Gestão Ambiental
 * Mestre em Ecologia e Biomonitoramento
-* Doutorando em Ecologia (Defesa realizada)
+* Doutorado em Ecologia (Esperando certificação)
