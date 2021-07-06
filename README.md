@@ -24,7 +24,7 @@ Portfólio de notebooks de ciência de dados.
 ### Machine Learning:
 
 * ** Regressão Linear do Consumo de cerveja:
-* ** Classificação de tumores de câncer de mama:
+* ** Classificação de tumores de câncer de mama: https://bit.ly/3hnkpy6
 * ** Análise de série temporal de incêndios na Amazônia:
 * ** Análise de Clustering do World Happiness Report:
 
