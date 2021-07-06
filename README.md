@@ -41,5 +41,5 @@ Portfólio de notebooks de ciência de dados.
 
 ## Experiências
 
-* jan/2021 - Atual - Analista de dados do núcleo de visualização do Cidacs
+* Jan/2021 - Atual - Analista de dados do núcleo de visualização do Centro de Integração de Dados e Conhecimento para Saúde (Cidacs).
 
