@@ -26,7 +26,7 @@ Portfólio de notebooks de ciência de dados.
 * ** Regressão Linear do Consumo de cerveja: https://bit.ly/3hLkMRQ
 * ** Classificação de tumores de câncer de mama: https://bit.ly/3hnkpy6
 * ** Análise de série temporal de incêndios na Amazônia: https://bit.ly/3Awshom
-* ** Análise de Clustering do World Happiness Report:
+* ** Análise de Clustering do World Happiness Report: https://bit.ly/3hjUszc
 
 ## Visualização de dados
 
