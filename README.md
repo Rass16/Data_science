@@ -28,10 +28,6 @@ Portfólio de notebooks de ciência de dados.
 * ** Análise de série temporal de incêndios na Amazônia: https://bit.ly/3Awshom
 * ** Análise de Clustering do World Happiness Report: https://bit.ly/3hjUszc
 
-### Visualização de dados
-
-* EM CONSTRUÇÃO 
-
 ## Sobre mim:
 
 * Graduação em Ciências Biológicas
@@ -41,5 +37,5 @@ Portfólio de notebooks de ciência de dados.
 
 ## Experiências
 
-* Jan/2021 - Atual - Analista de dados do núcleo de visualização do Centro de Integração de Dados e Conhecimento para Saúde (Cidacs).
+* Jan/2021 - Jul/2021 - Analista de dados do núcleo de visualização do Centro de Integração de Dados e Conhecimento para Saúde (Cidacs).
 
