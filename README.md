@@ -27,15 +27,3 @@ Portfólio de notebooks de ciência de dados.
 * ** Classificação de tumores de câncer de mama: https://bit.ly/3hnkpy6
 * ** Análise de série temporal de incêndios na Amazônia: https://bit.ly/3Awshom
 * ** Análise de Clustering do World Happiness Report: https://bit.ly/3hjUszc
-
-## Sobre mim:
-
-* Graduação em Ciências Biológicas
-* Especialista em Gestão Ambiental
-* Mestre em Ecologia e Biomonitoramento
-* Doutorado em Ecologia (Esperando certificação)
-
-## Experiências
-
-* Jan/2021 - Jul/2021 - Analista de dados do núcleo de visualização do Centro de Integração de Dados e Conhecimento para Saúde (Cidacs).
-
