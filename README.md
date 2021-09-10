@@ -19,12 +19,12 @@ Portfólio de notebooks de ciência de dados.
 
 * **Análise exploratória da emissão de CO² no Brasil**: https://bit.ly/3jMle1k
 * **Análise exploratória de suicídios no Brasil**: https://bit.ly/2HRN53c
-* **Análise exploratória do perfil de cientistas de dados no Brasil: https://bit.ly/3jGMI8l
+* **Análise exploratória do perfil de cientistas de dados no Brasil**: https://bit.ly/3jGMI8l
 
 ### Machine Learning:
-* ** Segmentação de clientes de uma empresa: https://bit.ly/3z2yxlU
-* ** Análise de evasão de clientes(Churn): https://bit.ly/3Dusv0U
-* ** Regressão Linear do Consumo de cerveja: https://bit.ly/3hLkMRQ
-* ** Classificação de tumores de câncer de mama: https://bit.ly/3hnkpy6
-* ** Análise de série temporal de incêndios na Amazônia: https://bit.ly/3Awshom
-* ** Análise de Clustering do World Happiness Report: https://bit.ly/3hjUszc
+* ** Segmentação de clientes de uma empresa**: https://bit.ly/3z2yxlU
+* ** Análise de evasão de clientes(Churn)**: https://bit.ly/3Dusv0U
+* ** Regressão Linear do Consumo de cerveja**: https://bit.ly/3hLkMRQ
+* ** Classificação de tumores de câncer de mama**: https://bit.ly/3hnkpy6
+* ** Análise de série temporal de incêndios na Amazônia**: https://bit.ly/3Awshom
+* ** Análise de Clustering do World Happiness Report**: https://bit.ly/3hjUszc
