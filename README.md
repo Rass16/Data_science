@@ -17,8 +17,8 @@ Portfólio de notebooks de ciência de dados.
 
 ### Análise exploratória de dados:
 
-* **Análise exploratória da emissão de CO² no Brasil: https://bit.ly/3jMle1k
-* **Análise exploratória de suicídios no Brasil: https://bit.ly/2HRN53c
+* **Análise exploratória da emissão de CO² no Brasil**: https://bit.ly/3jMle1k
+* **Análise exploratória de suicídios no Brasil**: https://bit.ly/2HRN53c
 * **Análise exploratória do perfil de cientistas de dados no Brasil: https://bit.ly/3jGMI8l
 
 ### Machine Learning:
