@@ -4,15 +4,6 @@
 
 Portfólio de notebooks de ciência de dados.
 
-## Habilidades: 
-* Python
-* R
-* Data Visualization
-* Machine Learning
-* Shiny
-* MongoDB(Básico)
-* MySQL(Básico)
-
 ## Lista de notebooks em Jupyter:
 
 ### Análise exploratória de dados:
@@ -28,3 +19,6 @@ Portfólio de notebooks de ciência de dados.
 * **Classificação de tumores de câncer de mama**: https://bit.ly/3hnkpy6
 * **Análise de série temporal de incêndios na Amazônia**: https://bit.ly/3Awshom
 * **Análise de Clustering do World Happiness Report**: https://bit.ly/3hjUszc
+
+### Deep Learning:
+* **Detecção de fraude - Rede Neural Artificial**: 
