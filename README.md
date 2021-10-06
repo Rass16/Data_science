@@ -21,4 +21,4 @@ Portfólio de notebooks de ciência de dados.
 * **Análise de Clustering do World Happiness Report**: https://bit.ly/3hjUszc
 
 ### Deep Learning:
-* **Detecção de fraude - Rede Neural Artificial**: 
+* **Detecção de fraude - Rede Neural Artificial**: https://bit.ly/3lhy2R4
